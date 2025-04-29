@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-I am a software developer with a focus on machine learning in the field of NLP and microservices development.
+I am a software developer with a focus on machine learning in the field of NLP and microservices development. The main development tool in my projects is Python.
+
+
